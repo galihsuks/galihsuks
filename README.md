@@ -13,7 +13,7 @@ Full Stack Developer with 3+ years of experience building scalable web applicati
 ## 🛠 Tech Stack
 
 - Frontend: React, Next.js, TailwindCSS
-- Backend: Node.js, Laravel
+- Backend: Node.js, Laravel, Codeigniter
 - Database: MySQL, Firebase
 - Others: WebSocket, REST API, Midtrans
 
@@ -39,3 +39,11 @@ Full Stack Developer with 3+ years of experience building scalable web applicati
 
 - LinkedIn: https://www.linkedin.com/in/galih-sukmamukti-hidayatullah/
 - Portfolio: https://galihsuks.com
+
+## GitHub Stats (biar keliatan aktif)
+
+Tambahkan ke README:
+
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galihsuks&show_icons=true)
+```
