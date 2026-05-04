@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Galih 👋
 
-<!--
-**galihsuks/galihsuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 3+ years of experience building scalable web applications, APIs, and real-time systems.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build full-stack web applications (frontend & backend)
+- Develop REST APIs and backend systems
+- Implement real-time features using WebSocket
+- Integrate payment gateways (Midtrans)
+- Optimize performance and scalability
+
+## 🛠 Tech Stack
+
+- Frontend: React, Next.js, TailwindCSS
+- Backend: Node.js, Laravel
+- Database: MySQL, Firebase
+- Others: WebSocket, REST API, Midtrans
+
+## 💼 Featured Projects
+
+### 🛒 E-Commerce Platform
+
+- Built from scratch using CodeIgniter
+- Integrated Midtrans payment gateway
+- Production-ready system
+
+### 💬 Real-time Chat App
+
+- Built using WebSocket
+- Supports multiple rooms & real-time messaging
+
+### 🚗 Parking System (Asta Parking)
+
+- Large-scale system built with Laravel
+- Feature development & performance optimization
+
+## 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/galih-sukmamukti-hidayatullah/
+- Portfolio: https://galihsuks.com
